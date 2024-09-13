@@ -21,6 +21,8 @@ sites:
     url: https://sintjacob.nl
   - name: trainingen.bijmee.nl 
     url: https://trainingen.bijmee.nl
+  - name: donnaitalia
+    url: https://donnaitalia.eu
     port: 80
     check: "tcp-ping"
     ipv6: true
