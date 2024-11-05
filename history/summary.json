@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ahsupport.boehringer-ingelheim.be.ico",
     "slug": "ah-support",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 2782,
     "timeDay": 813,
     "timeWeek": 2406,
     "timeMonth": 2734,
     "timeYear": 2782,
     "dailyMinutesDown": {
-      "2024-11-05": 0
+      "2024-11-05": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jointacademymicroport.com.ico",
     "slug": "jam",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 490,
     "timeDay": 384,
     "timeWeek": 407,
     "timeMonth": 464,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-11-05": 0
+      "2024-11-05": 9
     }
   },
   {
@@ -68,9 +68,9 @@
     "url": "http://vanderpigge.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vanderpigge.nl.ico",
     "slug": "pigge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,16 +79,18 @@
     "timeWeek": 1518,
     "timeMonth": 1386,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "DGO",
     "url": "https://degroeneos.nl",
     "icon": "https://icons.duckduckgo.com/ip3/degroeneos.nl.ico",
     "slug": "dgo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.74%",
@@ -98,6 +100,7 @@
     "timeMonth": 1101,
     "timeYear": 1267,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-10-07": 204
     }
   },
@@ -106,9 +109,9 @@
     "url": "https://pq-opleidingen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/pq-opleidingen.nl.ico",
     "slug": "pq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,7 +120,9 @@
     "timeWeek": 781,
     "timeMonth": 838,
     "timeYear": 840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "Spaarnesant",
@@ -154,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-11-05": 285,
+      "2024-11-05": 294,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
