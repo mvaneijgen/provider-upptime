@@ -68,9 +68,9 @@
     "url": "http://vanderpigge.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vanderpigge.nl.ico",
     "slug": "pigge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
@@ -80,6 +80,7 @@
     "timeMonth": 1509,
     "timeYear": 1225,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-11-05": 47
     }
   },
@@ -88,9 +89,9 @@
     "url": "https://degroeneos.nl",
     "icon": "https://icons.duckduckgo.com/ip3/degroeneos.nl.ico",
     "slug": "dgo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.71%",
@@ -100,6 +101,7 @@
     "timeMonth": 1175,
     "timeYear": 1354,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-11-05": 47,
       "2024-10-07": 204
     }
@@ -109,9 +111,9 @@
     "url": "https://pq-opleidingen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/pq-opleidingen.nl.ico",
     "slug": "pq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
@@ -121,6 +123,7 @@
     "timeMonth": 940,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-11-05": 47
     }
   },
@@ -148,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sintjacob.nl.ico",
     "slug": "sint-jacob",
     "status": "down",
-    "uptime": "3.39%",
+    "uptime": "3.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.39%",
+    "uptimeYear": "3.38%",
     "time": 1600,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-11-10": 12,
+      "2024-11-10": 369,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
