@@ -1,7 +1,7 @@
 url: http://ahsupport.boehringer-ingelheim.be
-status: up
-code: 200
-responseTime: 2265
-lastUpdated: 2024-11-18T09:40:26.368Z
+status: down
+code: 503
+responseTime: 644
+lastUpdated: 2024-11-18T12:00:03.004Z
 startTime: 2024-09-11T07:12:41.806Z
 generator: Upptime <https://github.com/upptime/upptime>
