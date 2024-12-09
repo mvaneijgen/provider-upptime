@@ -139,19 +139,19 @@
     "url": "https://spaarnesant.nl",
     "icon": "https://icons.duckduckgo.com/ip3/spaarnesant.nl.ico",
     "slug": "spaarnesant",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1500,
-    "timeDay": 1401,
-    "timeWeek": 1377,
-    "timeMonth": 1617,
-    "timeYear": 1500,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1499,
+    "timeDay": 1394,
+    "timeWeek": 1378,
+    "timeMonth": 1610,
+    "timeYear": 1499,
     "dailyMinutesDown": {
-      "2024-12-09": 0
+      "2024-12-09": 19
     }
   },
   {
@@ -171,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-12-09": 734,
+      "2024-12-09": 752,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
