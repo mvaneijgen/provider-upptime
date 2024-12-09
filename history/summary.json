@@ -139,9 +139,9 @@
     "url": "https://spaarnesant.nl",
     "icon": "https://icons.duckduckgo.com/ip3/spaarnesant.nl.ico",
     "slug": "spaarnesant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,7 +150,9 @@
     "timeWeek": 1377,
     "timeMonth": 1617,
     "timeYear": 1500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 0
+    }
   },
   {
     "name": "Sint Jacob",
@@ -158,18 +160,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sintjacob.nl.ico",
     "slug": "sint-jacob",
     "status": "down",
-    "uptime": "2.28%",
+    "uptime": "2.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.28%",
+    "uptimeYear": "2.27%",
     "time": 1600,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-12-09": 12,
+      "2024-12-09": 734,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
